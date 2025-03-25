@@ -40,13 +40,36 @@ My research interest includes HCI and Mental Health. I have published papers at 
 </div>
 </div>
 
-- [Eliciting Design Guidelines of Paper-Based Tactile Interfaces for Eyes-Free Scenarios](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=k3vS_oIAAAAJ&sortby=pubdate&citation_for_view=k3vS_oIAAAAJ:Y0pCki6q_DkC), Han Huang, Tingyu Cheng, Jinzhi Ye, Yuhui Zhao, Yiyang Wang, Haiqing Xu, Abigale Stangl, HyunJoo Oh, **TEI 2025**
+- [Eliciting Design Guidelines of Paper-Based Tactile Interfaces for Eyes-Free Scenarios](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=k3vS_oIAAAAJ&sortby=pubdate&citation_for_view=k3vS_oIAAAAJ:Y0pCki6q_DkC), Han Huang, Tingyu Cheng, Jinzhi Ye, Yuhui Zhao, Yiyang Wang, **Haiqing Xu**, Abigale Stangl, HyunJoo Oh, **TEI 2025**
 
-- [Guttation Sensor: Wearable Microfluidic Chip for Plant Condition Monitoring and Diagnosis](https://dl.acm.org/doi/abs/10.1145/3613905.3651087),Qiuyu Lu, Lydia Yang, Aditi Maheshwari, Hengrong Ni, Tianyu Yu, Jianzhe Gu, Advait Wadhwani, Haiqing Xu, Andreea Danielescu, Lining Yao, **CHI 2024**
-- 
+- [Guttation Sensor: Wearable Microfluidic Chip for Plant Condition Monitoring and Diagnosis](https://dl.acm.org/doi/abs/10.1145/3613905.3651087),Qiuyu Lu, Lydia Yang, Aditi Maheshwari, Hengrong Ni, Tianyu Yu, Jianzhe Gu, Advait Wadhwani, **Haiqing Xu**, Andreea Danielescu, Lining Yao, **CHI LBW 2024**
+  
+- [Sustainable morphing matter: design and engineering practices](https://dl.acm.org/doi/abs/10.1145/3613905.3651087),Dinesh K Patel, Ke Zhong, Haiqing Xu, Mohammad F Islam, Lining Yao, **Advanced Materials Technologies. 2023.** 🏅 Honors: Frontispiece Feature [Link](https://doi.org/10.1002/admt.202370129)
+
+- [Thermotion: Design and fabrication of thermofluidic composites for animation effects on object surfaces](https://dl.acm.org/doi/abs/10.1145/3544548.3580743),Tianyu Yu, Weiye Xu, **Haiqing Xu**, Guanhong Liu, Chang Liu, Guanyun Wang, Haipeng Mi, **CHI 2023** [Video](https://www.youtube.com/watch?v=26xYwlXYY8s)
+
+- [Demonstrating Thermotion: Design and Fabrication of Thermofluidic Composites for Animation Effects on Object Surfaces](https://dl.acm.org/doi/abs/10.1145/3544549.3583907),Tianyu Yu, Weiye Xu, **Haiqing Xu**, Guanhong Liu, Chang Liu, Guanyun Wang, Haipeng Mi, **CHI EA 2023** 
+
+- [Fluidic computation kit: Towards electronic-free shape-changing interfaces](https://dl.acm.org/doi/abs/10.1145/3544548.3580783),Qiuyu Lu, **Haiqing Xu**, Yijie Guo, Joey Yu Wang, Lining Yao, **CHI 2023** 
+
+- [Digital making for inheritance and enlivening intangible cultural heritage: a case of hairy monkey handicrafts](https://dl.acm.org/doi/abs/10.1145/3544548.3580783),Guanhong Liu, Xianghua Ding, Jinghe Cai, Weiyun Wang, Xinyue Wang, Yuting Diao, Jin Chen, Tianyu Yu, **Haiqing Xu**, Haipeng Mi **CHI 2023** 
+
+- [ViviPaint: Creating dynamic painting with a Thermochromic Toolkit](https://www.mdpi.com/2414-4088/6/8/63),Guanhong Liu, Tianyu Yu, Zhihao Yao, **Haiqing Xu**, Yunyi Zhang, Xuhai Xu, Xiaomeng Xu, Mingyue Gao, Qirui Sun, Tingliang Zhang, Haipeng Mi **Multimodal Technologies and Interaction. 2022**
+
+- [It Puts Life into My Creations”: Understanding Fluid Fiber as a Media for Expressive Display](https://dl.acm.org/doi/abs/10.1145/3491102.3501990),Guanhong Liu, **Haiqing Xu**, Xianghua Ding, Mingyue Gao, Bowen Li, Fushen Ruan, Haipeng Mi **CHI 2022**
+
+- [Tactile compass: Enabling visually impaired people to follow a path with continuous directional feedback](https://dl.acm.org/doi/abs/10.1145/3411764.3445644),Tianyu Yu, Weiye Xu, **Haiqing Xu**, Guanhong Liu, Chang Liu, Guanyun Wang, Haipeng Mi **CHI 2021**
+
+
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.01* CCTV 2021 China Story CCTV News Official Report. 
+- *2021.10* Scholarship of Academic Excellence.
+- *2021.05* Science Fiction World Official Report CCTV News.
+- *2020.10* Scholarship of Academic Excellence
+- *2016.10* Outstanding Graduates(1%)
+- *2013.10* National Encouragement Scholarship
 
 # 📖 Educations
 - *2023.08 - now*, Georgia Institute of Technology, Ph.D. Student in Human-Centered Computing. Advisor: Alexander T Adams and HyunJoo Oh, Atlanta, USA. 
