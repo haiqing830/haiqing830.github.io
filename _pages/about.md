@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/6af0965c-4322-44d6-8f7f-d18d2a58d9d3)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Human-Centered Computing at Georgia Tech. My research broadly focuses on Human Computer Interaction, Ubiquitous Computing, Behavior Change and Health & Wellbeing. I am a member of the Uncommon sense Lab and CoDeCraft Group under the advisory of Dr. Alexander T Adams and Dr.hyunjoo Oh.
+I am a PhD student in Human-Centered Computing at Georgia Tech. My research broadly focuses on Human Computer Interaction, Design Research, Designing educational tools for enhancing learning experience. I am a member of the CoDeCraft Group under the advisory of Dr.hyunjoo Oh and Dr. Alexander T Adams.
+
 
 My research interest includes HCI and Mental Health. I have published papers at the top international HCI conferences.
 
