@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Haiqing xu"
 description              : "Ph.D. Student, Human-Centered Computing, Georgia Institute of Technology "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "haiqing830/haiqing830.github.io"
+url                      : "https://haiqing830.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
