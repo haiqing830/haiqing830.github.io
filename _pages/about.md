@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/6af0965c-4322-44d6-8f7f-d18d2a58d9d3)---
+---
 permalink: /
-title: ""
-excerpt: ""
+title: "About me"
+excerpt: "About me"
 author_profile: true
+layout: about
 redirect_from: 
   - /about/
   - /about.html
@@ -17,11 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Human-Centered Computing at Georgia Tech. My research broadly focuses on Human Computer Interaction, Design Research, Designing educational tools for enhancing learning experience. I am a member of the CoDeCraft Group under the advisory of Dr.hyunjoo Oh and Dr. Alexander T Adams.
-
+I am a PhD student in Human-Centered Computing at Georgia Tech. My research broadly focuses on Human Computer Interaction, Design Research, Designing educational tools for enhancing learning experience. I am a member of the CoDeCraft Group under the advisory of Dr. Hyunjoo Oh and Dr. Alexander T Adams.
 
 My research interest includes HCI and Mental Health. I have published papers at the top international HCI conferences.
-
 
 # 🔥 News
 - *2022.12*: &nbsp;🎉🎉 Back to Beijing
@@ -36,7 +35,7 @@ My research interest includes HCI and Mental Health. I have published papers at 
 
 **Haiqing Xu**, xxxx, xxxx, xxxx
 
-[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?hl=en&user=k3vS_oIAAAAJ&view_op=list_works&sortby=pubdate) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://scholar.google.com/citations?hl=en&user=k3vS_oIAAAAJ&view_op=list_works&sortby=pubdate) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Human perception of food is a multisensory experience influenced by environmental cues like ambient lighting. This paper introduces LumiBite, a portable lighting system designed for real-world dining, and presents findings from a week-long field study that explores user customization of lighting settings. Results indicate that LumiBite is practical for everyday use and that users value the ability to personalize lighting to enhance their dining experience. 
 </div>
 </div>
@@ -60,9 +59,6 @@ My research interest includes HCI and Mental Health. I have published papers at 
 - [It Puts Life into My Creations”: Understanding Fluid Fiber as a Media for Expressive Display](https://dl.acm.org/doi/abs/10.1145/3491102.3501990),Guanhong Liu, **Haiqing Xu**, Xianghua Ding, Mingyue Gao, Bowen Li, Fushen Ruan, Haipeng Mi **CHI 2022**
 
 - [Tactile compass: Enabling visually impaired people to follow a path with continuous directional feedback](https://dl.acm.org/doi/abs/10.1145/3411764.3445644),Tianyu Yu, Weiye Xu, **Haiqing Xu**, Guanhong Liu, Chang Liu, Guanyun Wang, Haipeng Mi **CHI 2021**
-
-
-
 
 # 🎖 Honors and Awards
 - *2022.01* CCTV 2021 China Story CCTV News Official Report. 
